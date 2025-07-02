@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rdvn-ylmz/rdvn-ylmz/main/banner.png" alt="Banner" style="width:80%;border-radius:10px;">
+  <img src="https://raw.githubusercontent.com/rdvn-ylmz/rdvn-ylmz/main/my_banner.png" alt="Banner" style="width:80%;border-radius:10px;">
 </p>
 
 <h1 align="center">👋 Hi there, I'm Rıdvan Yılmaz</h1>
