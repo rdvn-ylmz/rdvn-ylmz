@@ -44,15 +44,7 @@
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
----
 
-## ⚡ Fun Facts
-
-- ✈️ Switched from Aircraft Technology to Computer Engineering—sky’s the limit!
-- 💡 I enjoy exploring new tech, even if it’s a bit challenging at first
-- 🛠️ I believe in learning by building
-
----
 
 ## 📫 Connect with Me
 
