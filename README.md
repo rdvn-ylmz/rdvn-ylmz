@@ -9,7 +9,6 @@
   <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/AI/ML-%23e67e22.svg?style=for-the-badge&logo=neural&logoColor=white"/>
   <img src="https://img.shields.io/badge/Backend-%23f1c40f.svg?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Always%20Learning-%23e84393.svg?style=for-the-badge"/>
 </p>
 
 ---
@@ -19,8 +18,7 @@
 - 🎓 I'm a Computer Engineering graduate (originally studied Aircraft Technology!)
 - 🐍 Python enthusiast with a passion for AI/ML
 - ⚙️ Currently diving deep into backend development and low-level C programming
-- 📊 Data-centric problem solving is my sweet spot
-- 🌱 Always exploring, always building
+- 📊 Data-centric problem solving
 
 ---
 
