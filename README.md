@@ -18,5 +18,7 @@ I prefer spending my time building projects and exploring new things.
 
 📫 Feel free to reach out:  
 `ridvanyilmaz333@gmail.com`
+
+
 ![Rıdvan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ridvanyilmaz&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ridvanyilmaz&layout=compact)
