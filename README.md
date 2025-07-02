@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rdvn-ylmz/rdvn-ylmz/main/banner.png" alt="Banner" style="width:80%;border-radius:10px;">
+  <img src="[https://raw.githubusercontent.com/rdvn-ylmz/rdvn-ylmz/main/banner.png](https://private-user-images.githubusercontent.com/74434335/461334677-d01e96d7-3fba-41ef-88ba-a855530287c1.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTE0Mjc0NzIsIm5iZiI6MTc1MTQyNzE3MiwicGF0aCI6Ii83NDQzNDMzNS80NjEzMzQ2NzctZDAxZTk2ZDctM2ZiYS00MWVmLTg4YmEtYTg1NTUzMDI4N2MxLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA3MDIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNzAyVDAzMzI1MlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWIzZDhlZDE1MTExNWY3YzRlMGFkYjdjYmQ3NzFjNjZiZTYyODE0M2UyOWE3NTRhOWIwZjcwZjQ3MjhkYWE5OGYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.AWmvYMLwvsEf_E0fI6WPie83Z_ZB2lCsXQtko07MLnk)" alt="Banner" style="width:80%;border-radius:10px;">
 </p>
 
 <h1 align="center">👋 Hi there, I'm Rıdvan Yılmaz</h1>
