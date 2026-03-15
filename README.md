@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  Python · Go · SQL · Scikit-learn · PostgreSQL · Docker · Linux
+  Python · Go 
 </p>
 
 <p align="center">
